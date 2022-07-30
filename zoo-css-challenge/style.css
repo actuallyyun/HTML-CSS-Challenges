@@ -148,6 +148,11 @@ footer {
   text-align: center;
 }
 
+.news>div {
+  display: flex;
+  flex-direction: row;
+}
+
 .card {
   display: inline-block;
   background-color: white;
